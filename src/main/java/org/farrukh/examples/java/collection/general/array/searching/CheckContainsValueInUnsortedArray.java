@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-import collection.general.array.ArrayGenerator;
+import org.farrukh.examples.java.collection.general.array.ArrayGenerator;
 import org.farrukh.examples.java.collection.util.Stopwatch;
 
 public class CheckContainsValueInUnsortedArray {
